@@ -1,7 +1,4 @@
-# Virgin Wallstreet journal reader (who gets blocked by paywall)
-# VS chad ekantipur reader
-#
-# Since college finished, I've turned into a 40yr old dad, who reads kantipur every morning. So, this repo
+#!/bin/sh
 
 current_date=$(date -u +"%Y-%m-%d")
 
